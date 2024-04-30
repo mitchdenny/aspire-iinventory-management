@@ -1,0 +1,36 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.0.0
+MinimumVisualStudioVersion = 17.8.0.0
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InventoryManagement.AppHost", "InventoryManagement.AppHost\InventoryManagement.AppHost.csproj", "{22AED650-066E-452A-BDF4-6A1454E38B0E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InventoryManagement.ServiceDefaults", "InventoryManagement.ServiceDefaults\InventoryManagement.ServiceDefaults.csproj", "{BACA347F-CD47-4004-8A96-BA1C6FD86D9E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InventoryManagement.InventoryService", "InventoryManagement.InventoryService\InventoryManagement.InventoryService.csproj", "{7CC2993A-C16A-44E8-8C9F-F3CA8AB75AA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22AED650-066E-452A-BDF4-6A1454E38B0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22AED650-066E-452A-BDF4-6A1454E38B0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22AED650-066E-452A-BDF4-6A1454E38B0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22AED650-066E-452A-BDF4-6A1454E38B0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BACA347F-CD47-4004-8A96-BA1C6FD86D9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BACA347F-CD47-4004-8A96-BA1C6FD86D9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BACA347F-CD47-4004-8A96-BA1C6FD86D9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BACA347F-CD47-4004-8A96-BA1C6FD86D9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CC2993A-C16A-44E8-8C9F-F3CA8AB75AA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CC2993A-C16A-44E8-8C9F-F3CA8AB75AA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CC2993A-C16A-44E8-8C9F-F3CA8AB75AA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CC2993A-C16A-44E8-8C9F-F3CA8AB75AA7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {580993ED-5BBB-43B0-B2A9-89DC650F2EC9}
+	EndGlobalSection
+EndGlobal
